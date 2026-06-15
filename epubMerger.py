@@ -46,4 +46,4 @@ libro_final.spine = ['nav'] + contenido_total
 
 epub.write_epub('Libro_Completo.epub', libro_final)
 
-print("✅ EPUB combinado creado: Libro_Completo.epub")
+print("EPUB combinado creado: Libro_Completo.epub")
